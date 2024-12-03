@@ -1,0 +1,174 @@
+
+         /\      Grafana   /‾‾/  
+    /\  /  \     |\  __   /  /   
+   /  \/    \    | |/ /  /   ‾‾\ 
+  /          \   |   (  |  (‾)  |
+ / __________ \  |_|\_\  \_____/ 
+
+     execution: local
+        script: ethz.js
+        output: csv (data/data_2025-02-07_09:15:33_1000_ethz.csv)
+
+     scenarios: (100.00%) 1 scenario, 1000 max VUs, 1m0s max duration (incl. graceful stop):
+              * ethz: 1000 looping VUs for 30s (exec: run, gracefulStop: 30s)
+
+
+running (0m00.9s), 1000/1000 VUs, 16 complete and 0 interrupted iterations
+ethz   [   3% ] 1000 VUs  00.9s/30s
+
+running (0m01.9s), 1000/1000 VUs, 368 complete and 0 interrupted iterations
+ethz   [   6% ] 1000 VUs  01.9s/30s
+
+running (0m02.9s), 1000/1000 VUs, 1235 complete and 0 interrupted iterations
+ethz   [  10% ] 1000 VUs  02.9s/30s
+
+running (0m03.9s), 1000/1000 VUs, 2095 complete and 0 interrupted iterations
+ethz   [  13% ] 1000 VUs  03.9s/30s
+
+running (0m04.9s), 1000/1000 VUs, 3027 complete and 0 interrupted iterations
+ethz   [  16% ] 1000 VUs  04.9s/30s
+
+running (0m05.9s), 1000/1000 VUs, 4280 complete and 0 interrupted iterations
+ethz   [  20% ] 1000 VUs  05.9s/30s
+
+running (0m06.9s), 1000/1000 VUs, 5399 complete and 0 interrupted iterations
+ethz   [  23% ] 1000 VUs  06.9s/30s
+
+running (0m07.9s), 1000/1000 VUs, 6953 complete and 0 interrupted iterations
+ethz   [  26% ] 1000 VUs  07.9s/30s
+
+running (0m08.9s), 1000/1000 VUs, 8634 complete and 0 interrupted iterations
+ethz   [  30% ] 1000 VUs  08.9s/30s
+
+running (0m09.9s), 1000/1000 VUs, 10257 complete and 0 interrupted iterations
+ethz   [  33% ] 1000 VUs  09.9s/30s
+
+running (0m10.9s), 1000/1000 VUs, 11813 complete and 0 interrupted iterations
+ethz   [  36% ] 1000 VUs  10.9s/30s
+
+running (0m11.9s), 1000/1000 VUs, 13456 complete and 0 interrupted iterations
+ethz   [  40% ] 1000 VUs  11.9s/30s
+
+running (0m12.9s), 1000/1000 VUs, 15142 complete and 0 interrupted iterations
+ethz   [  43% ] 1000 VUs  12.9s/30s
+
+running (0m13.9s), 1000/1000 VUs, 16790 complete and 0 interrupted iterations
+ethz   [  46% ] 1000 VUs  13.9s/30s
+
+running (0m14.9s), 1000/1000 VUs, 18436 complete and 0 interrupted iterations
+ethz   [  50% ] 1000 VUs  14.9s/30s
+
+running (0m15.9s), 1000/1000 VUs, 20030 complete and 0 interrupted iterations
+ethz   [  53% ] 1000 VUs  15.9s/30s
+
+running (0m16.9s), 1000/1000 VUs, 21664 complete and 0 interrupted iterations
+ethz   [  56% ] 1000 VUs  16.9s/30s
+
+running (0m17.9s), 1000/1000 VUs, 23299 complete and 0 interrupted iterations
+ethz   [  60% ] 1000 VUs  17.9s/30s
+
+running (0m18.9s), 1000/1000 VUs, 24503 complete and 0 interrupted iterations
+ethz   [  63% ] 1000 VUs  18.9s/30s
+
+running (0m19.9s), 1000/1000 VUs, 24503 complete and 0 interrupted iterations
+ethz   [  66% ] 1000 VUs  19.9s/30s
+
+running (0m20.9s), 1000/1000 VUs, 24503 complete and 0 interrupted iterations
+ethz   [  70% ] 1000 VUs  20.9s/30s
+
+running (0m21.9s), 1000/1000 VUs, 24503 complete and 0 interrupted iterations
+ethz   [  73% ] 1000 VUs  21.9s/30s
+
+running (0m22.9s), 1000/1000 VUs, 24503 complete and 0 interrupted iterations
+ethz   [  76% ] 1000 VUs  22.9s/30s
+
+running (0m23.9s), 1000/1000 VUs, 24503 complete and 0 interrupted iterations
+ethz   [  80% ] 1000 VUs  23.9s/30s
+
+running (0m24.9s), 1000/1000 VUs, 24503 complete and 0 interrupted iterations
+ethz   [  83% ] 1000 VUs  24.9s/30s
+
+running (0m25.9s), 1000/1000 VUs, 24503 complete and 0 interrupted iterations
+ethz   [  86% ] 1000 VUs  25.9s/30s
+
+running (0m26.9s), 1000/1000 VUs, 24503 complete and 0 interrupted iterations
+ethz   [  90% ] 1000 VUs  26.9s/30s
+
+running (0m27.9s), 1000/1000 VUs, 24503 complete and 0 interrupted iterations
+ethz   [  93% ] 1000 VUs  27.9s/30s
+
+running (0m28.9s), 1000/1000 VUs, 24503 complete and 0 interrupted iterations
+ethz   [  96% ] 1000 VUs  28.9s/30s
+
+running (0m29.9s), 1000/1000 VUs, 24503 complete and 0 interrupted iterations
+ethz   [ 100% ] 1000 VUs  29.9s/30s
+
+running (0m30.9s), 1000/1000 VUs, 24503 complete and 0 interrupted iterations
+ethz ↓ [ 100% ] 1000 VUs  30s
+
+running (0m31.9s), 0998/1000 VUs, 24505 complete and 0 interrupted iterations
+ethz ↓ [ 100% ] 1000 VUs  30s
+
+running (0m32.9s), 0975/1000 VUs, 24528 complete and 0 interrupted iterations
+ethz ↓ [ 100% ] 1000 VUs  30s
+
+running (0m33.9s), 0872/1000 VUs, 24631 complete and 0 interrupted iterations
+ethz ↓ [ 100% ] 1000 VUs  30s
+
+running (0m34.9s), 0833/1000 VUs, 24670 complete and 0 interrupted iterations
+ethz ↓ [ 100% ] 1000 VUs  30s
+
+running (0m35.9s), 0810/1000 VUs, 24693 complete and 0 interrupted iterations
+ethz ↓ [ 100% ] 1000 VUs  30s
+
+running (0m36.9s), 0729/1000 VUs, 24774 complete and 0 interrupted iterations
+ethz ↓ [ 100% ] 1000 VUs  30s
+
+running (0m37.9s), 0351/1000 VUs, 25152 complete and 0 interrupted iterations
+ethz ↓ [ 100% ] 1000 VUs  30s
+
+running (0m38.9s), 0200/1000 VUs, 25303 complete and 0 interrupted iterations
+ethz ↓ [ 100% ] 1000 VUs  30s
+
+running (0m39.9s), 0156/1000 VUs, 25347 complete and 0 interrupted iterations
+ethz ↓ [ 100% ] 1000 VUs  30s
+
+running (0m40.9s), 0118/1000 VUs, 25385 complete and 0 interrupted iterations
+ethz ↓ [ 100% ] 1000 VUs  30s
+
+running (0m41.9s), 0072/1000 VUs, 25431 complete and 0 interrupted iterations
+ethz ↓ [ 100% ] 1000 VUs  30s
+
+running (0m42.9s), 0035/1000 VUs, 25468 complete and 0 interrupted iterations
+ethz ↓ [ 100% ] 1000 VUs  30s
+
+running (0m43.9s), 0013/1000 VUs, 25490 complete and 0 interrupted iterations
+ethz ↓ [ 100% ] 1000 VUs  30s
+
+running (0m44.9s), 0005/1000 VUs, 25498 complete and 0 interrupted iterations
+ethz ↓ [ 100% ] 1000 VUs  30s
+
+     ✗ is status 200
+      ↳  98% — ✓ 25133 / ✗ 370
+
+     checks.........................: 98.54% 25133 out of 25503
+     data_received..................: 1.7 GB 38 MB/s
+     data_sent......................: 4.4 MB 98 kB/s
+     http_req_blocked...............: avg=96.06ms  min=0s      med=3.25µs   max=5.82s    p(90)=7.79µs   p(95)=66.99µs 
+     http_req_connecting............: avg=2.14ms   min=0s      med=0s       max=133.83ms p(90)=0s       p(95)=3.47ms  
+     http_req_duration..............: avg=1.39s    min=0s      med=480.37ms max=27s      p(90)=1.34s    p(95)=4.11s   
+       { expected_response:true }...: avg=1.39s    min=43.62ms med=487.53ms max=27s      p(90)=1.34s    p(95)=3.06s   
+     http_req_failed................: 1.45%  370 out of 25503
+     http_req_receiving.............: avg=906.76ms min=0s      med=304.81ms max=26.77s   p(90)=943.47ms p(95)=1.14s   
+     http_req_sending...............: avg=236.66ms min=0s      med=7.6µs    max=23.69s   p(90)=35.15µs  p(95)=137.08µs
+     http_req_tls_handshaking.......: avg=4.33ms   min=0s      med=0s       max=253.37ms p(90)=0s       p(95)=37.05ms 
+     http_req_waiting...............: avg=256.26ms min=0s      med=161.99ms max=26.77s   p(90)=257.47ms p(95)=325ms   
+     http_reqs......................: 25503  564.174606/s
+     iteration_duration.............: avg=1.47s    min=43.76ms med=498.09ms max=27s      p(90)=1.47s    p(95)=5.32s   
+     iterations.....................: 25503  564.174606/s
+     vus............................: 5      min=5              max=1000
+     vus_max........................: 1000   min=1000           max=1000
+
+
+running (0m45.2s), 0000/1000 VUs, 25503 complete and 0 interrupted iterations
+ethz ✓ [ 100% ] 1000 VUs  30s

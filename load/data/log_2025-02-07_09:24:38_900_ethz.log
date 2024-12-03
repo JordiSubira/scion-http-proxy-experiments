@@ -1,0 +1,204 @@
+
+         /\      Grafana   /‾‾/  
+    /\  /  \     |\  __   /  /   
+   /  \/    \    | |/ /  /   ‾‾\ 
+  /          \   |   (  |  (‾)  |
+ / __________ \  |_|\_\  \_____/ 
+
+     execution: local
+        script: ethz.js
+        output: csv (data/data_2025-02-07_09:24:38_900_ethz.csv)
+
+     scenarios: (100.00%) 1 scenario, 900 max VUs, 1m0s max duration (incl. graceful stop):
+              * ethz: 900 looping VUs for 30s (exec: run, gracefulStop: 30s)
+
+
+running (0m00.8s), 900/900 VUs, 28 complete and 0 interrupted iterations
+ethz   [   3% ] 900 VUs  00.8s/30s
+
+running (0m01.8s), 900/900 VUs, 242 complete and 0 interrupted iterations
+ethz   [   6% ] 900 VUs  01.8s/30s
+
+running (0m02.8s), 900/900 VUs, 911 complete and 0 interrupted iterations
+ethz   [   9% ] 900 VUs  02.8s/30s
+
+running (0m03.8s), 900/900 VUs, 1774 complete and 0 interrupted iterations
+ethz   [  13% ] 900 VUs  03.8s/30s
+
+running (0m04.8s), 900/900 VUs, 2610 complete and 0 interrupted iterations
+ethz   [  16% ] 900 VUs  04.8s/30s
+
+running (0m05.8s), 900/900 VUs, 3751 complete and 0 interrupted iterations
+ethz   [  19% ] 900 VUs  05.8s/30s
+
+running (0m06.8s), 900/900 VUs, 5112 complete and 0 interrupted iterations
+ethz   [  23% ] 900 VUs  06.8s/30s
+
+running (0m07.8s), 900/900 VUs, 6676 complete and 0 interrupted iterations
+ethz   [  26% ] 900 VUs  07.8s/30s
+
+running (0m08.8s), 900/900 VUs, 8317 complete and 0 interrupted iterations
+ethz   [  29% ] 900 VUs  08.8s/30s
+
+running (0m09.8s), 900/900 VUs, 9865 complete and 0 interrupted iterations
+ethz   [  33% ] 900 VUs  09.8s/30s
+
+running (0m10.8s), 900/900 VUs, 11544 complete and 0 interrupted iterations
+ethz   [  36% ] 900 VUs  10.8s/30s
+
+running (0m11.8s), 900/900 VUs, 13110 complete and 0 interrupted iterations
+ethz   [  39% ] 900 VUs  11.8s/30s
+
+running (0m12.8s), 900/900 VUs, 14672 complete and 0 interrupted iterations
+ethz   [  43% ] 900 VUs  12.8s/30s
+
+running (0m13.8s), 900/900 VUs, 16242 complete and 0 interrupted iterations
+ethz   [  46% ] 900 VUs  13.8s/30s
+
+running (0m14.8s), 900/900 VUs, 17881 complete and 0 interrupted iterations
+ethz   [  49% ] 900 VUs  14.8s/30s
+
+running (0m15.8s), 900/900 VUs, 19525 complete and 0 interrupted iterations
+ethz   [  53% ] 900 VUs  15.8s/30s
+
+running (0m16.8s), 900/900 VUs, 21125 complete and 0 interrupted iterations
+ethz   [  56% ] 900 VUs  16.8s/30s
+
+running (0m17.8s), 900/900 VUs, 22738 complete and 0 interrupted iterations
+ethz   [  59% ] 900 VUs  17.8s/30s
+
+running (0m18.8s), 900/900 VUs, 24279 complete and 0 interrupted iterations
+ethz   [  63% ] 900 VUs  18.8s/30s
+
+running (0m19.8s), 900/900 VUs, 25970 complete and 0 interrupted iterations
+ethz   [  66% ] 900 VUs  19.8s/30s
+
+running (0m20.8s), 900/900 VUs, 27078 complete and 0 interrupted iterations
+ethz   [  69% ] 900 VUs  20.8s/30s
+
+running (0m21.8s), 900/900 VUs, 27078 complete and 0 interrupted iterations
+ethz   [  73% ] 900 VUs  21.8s/30s
+
+running (0m22.8s), 900/900 VUs, 27078 complete and 0 interrupted iterations
+ethz   [  76% ] 900 VUs  22.8s/30s
+
+running (0m23.8s), 900/900 VUs, 27078 complete and 0 interrupted iterations
+ethz   [  79% ] 900 VUs  23.8s/30s
+
+running (0m24.8s), 900/900 VUs, 27078 complete and 0 interrupted iterations
+ethz   [  83% ] 900 VUs  24.8s/30s
+
+running (0m25.8s), 900/900 VUs, 27078 complete and 0 interrupted iterations
+ethz   [  86% ] 900 VUs  25.8s/30s
+
+running (0m26.8s), 900/900 VUs, 27078 complete and 0 interrupted iterations
+ethz   [  89% ] 900 VUs  26.8s/30s
+
+running (0m27.8s), 900/900 VUs, 27078 complete and 0 interrupted iterations
+ethz   [  93% ] 900 VUs  27.8s/30s
+
+running (0m28.8s), 900/900 VUs, 27078 complete and 0 interrupted iterations
+ethz   [  96% ] 900 VUs  28.8s/30s
+
+running (0m29.8s), 900/900 VUs, 27078 complete and 0 interrupted iterations
+ethz   [  99% ] 900 VUs  29.8s/30s
+
+running (0m30.8s), 900/900 VUs, 27078 complete and 0 interrupted iterations
+ethz ↓ [ 100% ] 900 VUs  30s
+
+running (0m31.8s), 900/900 VUs, 27078 complete and 0 interrupted iterations
+ethz ↓ [ 100% ] 900 VUs  30s
+
+running (0m32.8s), 900/900 VUs, 27078 complete and 0 interrupted iterations
+ethz ↓ [ 100% ] 900 VUs  30s
+
+running (0m33.8s), 900/900 VUs, 27078 complete and 0 interrupted iterations
+ethz ↓ [ 100% ] 900 VUs  30s
+
+running (0m34.8s), 900/900 VUs, 27078 complete and 0 interrupted iterations
+ethz ↓ [ 100% ] 900 VUs  30s
+
+running (0m35.8s), 900/900 VUs, 27078 complete and 0 interrupted iterations
+ethz ↓ [ 100% ] 900 VUs  30s
+
+running (0m36.8s), 900/900 VUs, 27078 complete and 0 interrupted iterations
+ethz ↓ [ 100% ] 900 VUs  30s
+
+running (0m37.8s), 900/900 VUs, 27078 complete and 0 interrupted iterations
+ethz ↓ [ 100% ] 900 VUs  30s
+
+running (0m38.8s), 877/900 VUs, 27101 complete and 0 interrupted iterations
+ethz ↓ [ 100% ] 900 VUs  30s
+
+running (0m39.8s), 863/900 VUs, 27115 complete and 0 interrupted iterations
+ethz ↓ [ 100% ] 900 VUs  30s
+
+running (0m40.8s), 853/900 VUs, 27125 complete and 0 interrupted iterations
+ethz ↓ [ 100% ] 900 VUs  30s
+
+running (0m41.8s), 836/900 VUs, 27142 complete and 0 interrupted iterations
+ethz ↓ [ 100% ] 900 VUs  30s
+
+running (0m42.8s), 829/900 VUs, 27149 complete and 0 interrupted iterations
+ethz ↓ [ 100% ] 900 VUs  30s
+
+running (0m43.8s), 822/900 VUs, 27156 complete and 0 interrupted iterations
+ethz ↓ [ 100% ] 900 VUs  30s
+
+running (0m44.8s), 812/900 VUs, 27166 complete and 0 interrupted iterations
+ethz ↓ [ 100% ] 900 VUs  30s
+
+running (0m45.8s), 803/900 VUs, 27175 complete and 0 interrupted iterations
+ethz ↓ [ 100% ] 900 VUs  30s
+
+running (0m46.8s), 787/900 VUs, 27191 complete and 0 interrupted iterations
+ethz ↓ [ 100% ] 900 VUs  30s
+
+running (0m47.8s), 774/900 VUs, 27204 complete and 0 interrupted iterations
+ethz ↓ [ 100% ] 900 VUs  30s
+
+running (0m48.8s), 765/900 VUs, 27213 complete and 0 interrupted iterations
+ethz ↓ [ 100% ] 900 VUs  30s
+
+running (0m49.8s), 755/900 VUs, 27223 complete and 0 interrupted iterations
+ethz ↓ [ 100% ] 900 VUs  30s
+
+running (0m50.8s), 610/900 VUs, 27368 complete and 0 interrupted iterations
+ethz ↓ [ 100% ] 900 VUs  30s
+
+running (0m51.8s), 600/900 VUs, 27378 complete and 0 interrupted iterations
+ethz ↓ [ 100% ] 900 VUs  30s
+
+running (0m52.8s), 471/900 VUs, 27507 complete and 0 interrupted iterations
+ethz ↓ [ 100% ] 900 VUs  30s
+
+running (0m53.8s), 100/900 VUs, 27878 complete and 0 interrupted iterations
+ethz ↓ [ 100% ] 900 VUs  30s
+
+running (0m54.8s), 097/900 VUs, 27881 complete and 0 interrupted iterations
+ethz ↓ [ 100% ] 900 VUs  30s
+
+     ✗ is status 200
+      ↳  98% — ✓ 27696 / ✗ 282
+
+     checks.........................: 98.99% 27696 out of 27978
+     data_received..................: 1.9 GB 34 MB/s
+     data_sent......................: 4.5 MB 81 kB/s
+     http_req_blocked...............: avg=58.5ms   min=0s     med=3.18µs   max=5.64s    p(90)=5.26µs   p(95)=30.93µs 
+     http_req_connecting............: avg=1.45ms   min=0s     med=0s       max=79.71ms  p(90)=0s       p(95)=0s      
+     http_req_duration..............: avg=1.61s    min=0s     med=565.36ms max=36.12s   p(90)=1.4s     p(95)=2.07s   
+       { expected_response:true }...: avg=1.5s     min=8.42ms med=567.14ms max=36.12s   p(90)=1.38s    p(95)=1.96s   
+     http_req_failed................: 1.00%  282 out of 27978
+     http_req_receiving.............: avg=1.18s    min=0s     med=384.11ms max=35.91s   p(90)=1.09s    p(95)=1.29s   
+     http_req_sending...............: avg=214.4ms  min=0s     med=7.43µs   max=35.11s   p(90)=27.96µs  p(95)=78.5µs  
+     http_req_tls_handshaking.......: avg=2.3ms    min=0s     med=0s       max=129.91ms p(90)=0s       p(95)=0s      
+     http_req_waiting...............: avg=213.39ms min=0s     med=110.41ms max=35.18s   p(90)=210.19ms p(95)=253.49ms
+     http_reqs......................: 27978  502.09073/s
+     iteration_duration.............: avg=1.64s    min=8.49ms med=579.08ms max=36.12s   p(90)=1.43s    p(95)=2.45s   
+     iterations.....................: 27978  502.09073/s
+     vus............................: 97     min=97             max=900
+     vus_max........................: 900    min=900            max=900
+
+
+running (0m55.7s), 000/900 VUs, 27978 complete and 0 interrupted iterations
+ethz ✓ [ 100% ] 900 VUs  30s
